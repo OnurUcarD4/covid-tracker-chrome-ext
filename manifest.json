@@ -1,0 +1,17 @@
+{
+  "name": "Covid-19 Stats TR",
+  "version": "1.0.0",
+  "description": "Latest Covid Data of TR",
+  "manifest_version": 3,
+  "author": "Onur Ucar",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Latest Covid Report"
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
